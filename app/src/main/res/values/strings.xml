@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">EmployeeApp</string>
+
+    <string name="btn_search">Search Employees</string>
+    <string name="hint_search">Search employees ...</string>
+    <string name="btn_fetch">All Employees</string>
+
+    <string name="btn_delete">Delete</string>
+    <string name="hint_name">Please enter your name</string>
+    <string name="hint_age">Please enter your age (18 ~ 120) </string>
+    <string name="hint_salary">Please enter your salary</string>
+    <string name="btn_add">Add</string>
+
+    <string name="add_employee">Add Employee</string>
+
+    <string name="search_error">Please enter a valid text</string>
+
+    <string name="head_id">ID#</string>
+    <string name="head_name">Name</string>
+    <string name="head_age">Age</string>
+    <string name="head_wage">Wage</string>
+
+    <string name="head_id_label">ID:</string>
+    <string name="head_age_label">Age:</string>
+    <string name="head_wage_label">Wage:</string>
+
+    <string name="title_all">All Employees</string>
+    <string name="title_match">Matching Employees</string>
+
+    <string name="task_all" translatable="false">TASK_ALL</string>
+    <string name="task_search" translatable="false">TASK_SEARCH</string>
+
+    <string name="dollar" translatable="false">$</string>
+
+    <string name="default_image" translatable="false">images/default_profile.png</string>
+
+    <string name="mistery_profile" translatable="false">https://d2x5ku95bkycr3.cloudfront.net/App_Themes/Common/images/profile/0_200.png</string>
+    <string name="default_profile" translatable="false">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbcL43uEgT1g7tSrgmB5xap7xLQr7YpxYFpJg_jXPmWgyy23DlJw</string>
+
+</resources>
